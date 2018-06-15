@@ -1,0 +1,13 @@
+{
+  "description": "mb-miniprogram",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxf5d80d4fe0de8440",
+  "projectname": "mb-miniprogram",
+  "miniprogramRoot": "./dist"
+}
